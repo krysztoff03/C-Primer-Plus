@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511024034 source:c:\users\crist\documents\codeblocks\c primer plus\13\main.c
+	<stdio.h>
+	<stdlib.h>
+

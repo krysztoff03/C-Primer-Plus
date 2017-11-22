@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\crist\documents\codeblocks\c primer plus\chapter 2 - introducing c\05\main.c
+	<stdio.h>
+	<stdlib.h>
+

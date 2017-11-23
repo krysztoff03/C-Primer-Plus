@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511467055 source:c:\users\crist\documents\codeblocks\c primer plus\chapter 4 - character string and formatted io\06\main.c
+	<stdio.h>
+	<stdlib.h>
+

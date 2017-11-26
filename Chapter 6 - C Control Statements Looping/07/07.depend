@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511618984 source:c:\users\crist\documents\codeblocks\c primer plus\chapter 6 - c control statements looping\07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
